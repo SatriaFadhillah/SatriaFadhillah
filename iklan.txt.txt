@@ -1,1 +1,0 @@
-This file includes a text that is useful for blocking advertisements that sometimes give viruses to our devices. With a file containing this text, it can cut off the internet connection if the user wants to go to a website and the website displays many advertisements that are unknown whether the advertisements are normal advertisements or advertisements that give viruses.
