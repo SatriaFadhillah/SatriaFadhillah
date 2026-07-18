@@ -1,4 +1,10 @@
 # 💫 About Me:
+<h1>Hi, I'm Satria Fadhillah 👏😁</h1>
+
+<br>
+🧠 A Cyber Security student with a curious mind and a strong interest in how systems break — and how to make them stronger. 🔍 I enjoy digging into web application security, from spotting vulnerabilities 🐛 to understanding the mindset behind them. 📖 Always learning, 🧪 always testing, and trying to think like an attacker 🕶️ so I can help build defenses that actually hold up 🛡️.
+<br>
+
 🚨 Threat and Risk Analysis for Web Systems <br>🔐 Secure Coding Practices for Web Systems<br>🧰 Exploring Vulnerabilities with Various Tools<br>📚 Exploring the OWASP Top 10 Web and Its Implementation<br>🌐 Network & Infrastructure Security<br>🕵️ Reconnaissance & Information Gathering<br>🧠 Security Awareness for Developers<br>
 
 
