@@ -17,10 +17,6 @@
 </div>
 
 ###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 ---
 [![](https://komarev.com/ghpvc/?username=SatriaFadhillah&icon=0&color=0)](https://visitcount.itsvg.in)
 
