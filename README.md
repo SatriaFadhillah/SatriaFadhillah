@@ -14,11 +14,13 @@
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
-
-<div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+<div align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"
+    width="500"
+    alt="GitHub Streak"
+  />
 </div>
-
 ###
 ---
 [![](https://komarev.com/ghpvc/?username=SatriaFadhillah&icon=0&color=0)](https://visitcount.itsvg.in)
